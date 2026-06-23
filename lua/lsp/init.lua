@@ -1,0 +1,6 @@
+require 'lsp.cmp'
+require 'lsp.signature'
+require 'lsp.auto-install'
+require 'lsp.langs.init'
+require 'lsp.hover'
+require 'lsp.snip.init'

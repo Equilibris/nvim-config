@@ -1,0 +1,7 @@
+eww-src
+.gitsecret/keys/random_seed
+!*.secret
+work/aws-cli-helper.py
+work/powercatch-config
+global/wifi.nix
+typst-languagetool-nix
