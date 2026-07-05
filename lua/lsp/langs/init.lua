@@ -113,6 +113,7 @@ local trivial_lsps = {
     julials = {},
     sqlls = {},
     svelte = {},
+    tailwindcss = {},
     arduino_language_server = {},
     ocamllsp = {},
     prolog_ls = {},
